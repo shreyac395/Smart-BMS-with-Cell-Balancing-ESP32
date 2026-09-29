@@ -15,4 +15,4 @@ Wi-Fi connectivity is used to send battery data to ThingSpeak for IoT-based remo
 
 ### Serial Monitor Output
 
-![BMS Serial Monitor](BMS_Serial_Monitor.jpeg)
+<img src="BMS_Serial_Monitor.jpeg" width="500">
