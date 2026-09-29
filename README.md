@@ -7,3 +7,12 @@ This project presents a Smart Battery Management System (BMS) developed using ES
 The system monitors battery voltage, individual cell voltages, current, temperature, and State of Charge (SoC) in real time. It also provides protection against abnormal battery conditions and uses MOSFET-based passive cell balancing.
 
 Wi-Fi connectivity is used to send battery data to ThingSpeak for IoT-based remote monitoring.
+## Project Prototype
+
+### Hardware Prototype
+
+![BMS Hardware Prototype](BMS_Hardware.jpeg)
+
+### Serial Monitor Output
+
+![BMS Serial Monitor](BMS_Serial_Monitor.jpeg)
